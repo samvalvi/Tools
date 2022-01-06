@@ -1,0 +1,12 @@
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\bin\Debug\net6.0\Tools.deps.json
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\bin\Debug\net6.0\Tools.dll
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\bin\Debug\net6.0\ref\Tools.dll
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\bin\Debug\net6.0\Tools.pdb
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\obj\Debug\net6.0\Tools.csproj.AssemblyReference.cache
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\obj\Debug\net6.0\Tools.dll
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\obj\Debug\net6.0\ref\Tools.dll
+C:\Software\C#\Console\DesignPatterns\Singleton\Tools\obj\Debug\net6.0\Tools.pdb
